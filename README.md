@@ -8,6 +8,7 @@ Learn-to-Earn is a blockchain-powered platform designed to incentivize learning.
 
 ## Contract Address
 0x26b829F166138398d534F8D62Fc8F477978B5D4B
+![image](https://github.com/user-attachments/assets/52ebe8e7-455b-4e6a-aa73-90f5db4f1ab8)
 
 ## Project Vision
 Our vision is to create a sustainable ecosystem where education meets financial empowerment. By aligning financial incentives with educational progress, we aim to make learning more accessible and rewarding for students worldwide.
